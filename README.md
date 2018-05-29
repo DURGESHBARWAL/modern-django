@@ -1,2 +1,4 @@
 # modern-django
-It is a short describtion of Modern Django
+This is basic app, to represent the Django powered App.
+
+
